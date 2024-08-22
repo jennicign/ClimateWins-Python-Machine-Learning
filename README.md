@@ -37,7 +37,7 @@ To evaluate the viability of using machine learning models to meet the client's 
 
 ### Objective
 
-To conduct a thought experiment on the use of machine learning to analyze weather data and predict wheather.
+To conduct a thought experiment on the use of machine learning to analyze weather data and predict weather.
 
 ### Requirements
 
