@@ -13,7 +13,7 @@ Each part addresses specific objectives, key questions, and utilizes different d
 
 ### Objective
 
-To evaluate the viability of using machine learning models to meet the client's needs, focusing on predicting climate change consequences and analyzing hospital readmissions.
+To evaluate the viability of using machine learning models to meet the client's needs, focusing on predicting climate change consequences.
 
 ### Requirements
 
