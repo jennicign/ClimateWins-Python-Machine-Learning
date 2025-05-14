@@ -1,4 +1,4 @@
-# Machine Learning for Climate Change Analysis and Hospital Readmissions
+# Machine Learning for Climate Change Analysis
 
 ## Project Overview
 
@@ -7,7 +7,7 @@ This repository contains two parts:
 1. **Achievment 1: Feasibility Study on Using Machine Learning for Client Needs**
 2. **Achievment 2: Thought Experiment on Predicting Future Weather Data using Machine Learning**
 
-Each part addresses specific objectives, key questions, and utilizes different data sources. This project aims to demonstrate the application of machine learning techniques in understanding climate change impacts and health outcomes.
+Each part addresses specific objectives, key questions, and utilizes different data sources. This project aims to demonstrate the application of machine learning techniques in understanding climate change impacts.
 
 ## Achievment 1: Feasibility Study on Using Machine Learning for Client Needs
 
@@ -18,7 +18,7 @@ To evaluate the viability of using machine learning models to meet the client's 
 ### Requirements
 
 - Can machine learning models provide accurate and actionable predictions for climate change impacts?
-- What are the most suitable machine learning techniques for analyzing weather data and hospital readmissions?
+- What are the most suitable machine learning techniques for analyzing weather data?
 - How can the organization integrate these models into their workflow to benefit from predictive insights?
 
 ### Data Sources
